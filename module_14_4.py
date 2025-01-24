@@ -9,7 +9,7 @@ from crud_functions import *
 
 
 
-api='8052186009:AAH65LHw7AqMqtMfbHy_Lxh26cvBb5W39rk'
+api=''
 bot=Bot(token=api)
 dp=Dispatcher(bot, storage=MemoryStorage())
 
