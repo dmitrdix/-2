@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Описание 1",
+        "id": 1,
+        "price": 100,
+        "title": "Продукт 1"
+    },
+    {
+        "description": "Описание 2",
+        "id": 2,
+        "price": 200,
+        "title": "Продукт 2"
+    },
+    {
+        "description": "Описание 3",
+        "id": 3,
+        "price": 300,
+        "title": "Продукт 3"
+    },
+    {
+        "description": "Описание 4",
+        "id": 4,
+        "price": 400,
+        "title": "Продукт 4"
+    }
+]
